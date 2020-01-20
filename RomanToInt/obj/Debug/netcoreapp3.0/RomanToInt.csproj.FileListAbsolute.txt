@@ -1,0 +1,11 @@
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.exe
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.deps.json
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.runtimeconfig.json
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.runtimeconfig.dev.json
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.dll
+D:\RomanToInt\RomanToInt\bin\Debug\netcoreapp3.0\RomanToInt.pdb
+D:\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.0\RomanToInt.csprojAssemblyReference.cache
+D:\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.0\RomanToInt.AssemblyInfoInputs.cache
+D:\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.0\RomanToInt.AssemblyInfo.cs
+D:\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.0\RomanToInt.dll
+D:\RomanToInt\RomanToInt\obj\Debug\netcoreapp3.0\RomanToInt.pdb
